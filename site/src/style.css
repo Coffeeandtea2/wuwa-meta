@@ -1,0 +1,83 @@
+/* 명조 다크 + 사이트 골드(#ffd66b — wuthering.gg 원본 액센트) · 데이터는 모노스페이스 */
+:root {
+  --bg: #14161f;
+  --panel: #1d2030;
+  --line: #2c3048;
+  --text: #e8e6df;
+  --dim: #8f93a8;
+  --gold: #ffd66b;
+  --r5: #e8b34b;
+  --r4: #a06ee0;
+}
+* { box-sizing: border-box; margin: 0; }
+body {
+  background: var(--bg); color: var(--text);
+  font-family: "Pretendard", system-ui, sans-serif;
+  min-height: 100vh;
+}
+.site-head { padding: 40px 24px 16px; border-bottom: 1px solid var(--line); }
+.site-head h1 { font-size: 1.6rem; letter-spacing: -0.02em; }
+.site-head h1 em { color: var(--gold); font-style: normal; font-weight: 400; }
+.tagline { color: var(--dim); font-size: 0.85rem; margin-top: 6px; }
+nav { display: flex; gap: 4px; margin-top: 20px; }
+nav a {
+  color: var(--dim); text-decoration: none; font-size: 0.85rem;
+  padding: 6px 12px; border-radius: 6px 6px 0 0;
+}
+nav a.on, nav a:hover { color: var(--gold); background: var(--panel); }
+main { padding: 24px; max-width: 1100px; }
+.loading { color: var(--dim); font-size: 0.9rem; }
+
+/* 티어보드 — 예시 컴포넌트 */
+.tierboard { display: grid; gap: 2px; }
+.tier-row {
+  display: flex; flex-wrap: wrap; gap: 6px; align-items: center;
+  background: var(--panel); padding: 10px 12px; border-left: 3px solid var(--line);
+}
+.tier-row.tier-S { border-left-color: var(--gold); }
+.tier-label {
+  font-family: ui-monospace, monospace; font-weight: 700; width: 24px;
+  color: var(--gold);
+}
+.chip {
+  font-size: 0.78rem; padding: 3px 9px; border-radius: 99px;
+  background: var(--bg); border: 1px solid var(--line); cursor: default;
+}
+.chip.r5 { border-color: var(--r5); }
+.chip.r4 { border-color: var(--r4); }
+@media (max-width: 600px) { .site-head { padding: 24px 16px 8px; } main { padding: 16px; } }
+
+/* 추가 컴포넌트 */
+.notice { color: var(--dim); font-size: 0.8rem; margin: 8px 0; }
+h2 { margin: 18px 0 6px; font-size: 1.1rem; color: var(--gold); }
+h3 { margin: 16px 0 6px; font-size: 0.95rem; }
+table { border-collapse: collapse; font-size: 0.8rem; width: 100%; max-width: 720px; }
+th, td { border-bottom: 1px solid var(--line); padding: 5px 10px; text-align: left; }
+th { color: var(--dim); font-weight: 500; }
+.invgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 4px; margin: 10px 0; }
+.invitem { font-size: 0.78rem; background: var(--panel); padding: 5px 8px; border-radius: 6px; border-left: 2px solid var(--line); cursor: pointer; }
+.invitem.r5 { border-left-color: var(--r5); }
+.invitem.r4 { border-left-color: var(--r4); }
+button { background: var(--gold); color: #14161f; border: 0; padding: 7px 14px; border-radius: 6px; font-weight: 600; cursor: pointer; }
+.team { display: flex; gap: 6px; align-items: center; padding: 6px 0; }
+.team b { font-family: ui-monospace, monospace; color: var(--gold); width: 34px; }
+.chip i { color: var(--dim); font-style: normal; font-size: 0.65rem; margin-left: 4px; }
+.verdict { background: var(--panel); padding: 12px 16px; border-radius: 8px; max-width: 560px; }
+.verdict .big { color: var(--gold); font-size: 1.05rem; margin-top: 8px; }
+.simform { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; font-size: 0.85rem; }
+.simform input[type=number] { width: 90px; background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 5px; padding: 5px; }
+select { background: var(--panel); color: var(--text); border: 1px solid var(--line); border-radius: 5px; padding: 6px; }
+
+.about p { font-size: 0.85rem; line-height: 1.7; color: var(--text); max-width: 640px; margin-bottom: 4px; }
+.why { margin: 4px 0 8px; max-width: 640px; }
+.why summary { color: var(--gold); font-size: 0.78rem; cursor: pointer; }
+.why p { color: var(--dim); font-size: 0.8rem; line-height: 1.6; padding: 6px 0 0 12px; }
+
+.bars { max-width: 640px; margin: 8px 0; }
+.barrow { display: flex; align-items: center; gap: 8px; margin: 4px 0; font-size: 0.78rem; }
+.barlabel { width: 130px; color: var(--dim); text-align: right; }
+.bar { height: 16px; background: linear-gradient(90deg, var(--gold), #ffb63b); border-radius: 3px; min-width: 3px; }
+.barval { color: var(--dim); white-space: nowrap; }
+
+.chip.clickable { cursor: pointer; }
+.chip.clickable:hover { border-color: var(--gold); }

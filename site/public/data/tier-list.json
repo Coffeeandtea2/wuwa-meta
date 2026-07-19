@@ -1,0 +1,672 @@
+{
+ "S": [
+  {
+   "Id": 1610,
+   "Name": "양양 · 현령",
+   "NameEn": "Yangyang: Xuanling",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1210,
+   "Name": "에이메스",
+   "NameEn": "Aemeath",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1511,
+   "Name": "루시",
+   "NameEn": "Lucy",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1109,
+   "Name": "루실라",
+   "NameEn": "Lucilla",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1108,
+   "Name": "히유키",
+   "NameEn": "Hiyuki",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1211,
+   "Name": "데니아",
+   "NameEn": "Denia",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1110,
+   "Name": "수수",
+   "NameEn": "Suisui",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 5,
+   "Role": "서포트"
+  },
+  {
+   "Id": 1510,
+   "Name": "루크 · 헤르센",
+   "NameEn": "Luuk Herssen",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1412,
+   "Name": "시그리카",
+   "NameEn": "Sigrika",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1306,
+   "Name": "아우구스타",
+   "NameEn": "Augusta",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1509,
+   "Name": "린네",
+   "NameEn": "Lynae",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  }
+ ],
+ "A": [
+  {
+   "Id": 1508,
+   "Name": "치사",
+   "NameEn": "Chisa",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1208,
+   "Name": "갈브레나",
+   "NameEn": "Galbrena",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1308,
+   "Name": "레베카",
+   "NameEn": "Rebecca",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1410,
+   "Name": "유노",
+   "NameEn": "Iuno",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1507,
+   "Name": "젠니",
+   "NameEn": "Zani",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1307,
+   "Name": "복링",
+   "NameEn": "Buling",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 4,
+   "Role": "서포트"
+  },
+  {
+   "Id": 1207,
+   "Name": "루파",
+   "NameEn": "Lupa",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1409,
+   "Name": "카르티시아",
+   "NameEn": "Cartethyia",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1304,
+   "Name": "금희",
+   "NameEn": "Jinhsi",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1209,
+   "Name": "모니에",
+   "NameEn": "Mornye",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1603,
+   "Name": "카멜리아",
+   "NameEn": "Camellya",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1407,
+   "Name": "샤콘",
+   "NameEn": "Ciaccona",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1107,
+   "Name": "카를로타",
+   "NameEn": "Carlotta",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1608,
+   "Name": "플로로",
+   "NameEn": "Phrolova",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1607,
+   "Name": "칸타렐라",
+   "NameEn": "Cantarella",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1411,
+   "Name": "구원",
+   "NameEn": "Qiuyuan",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1302,
+   "Name": "음림",
+   "NameEn": "Yinlin",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1205,
+   "Name": "장리",
+   "NameEn": "Changli",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1606,
+   "Name": "로코코",
+   "NameEn": "Roccia",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1206,
+   "Name": "브렌트",
+   "NameEn": "Brant",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  }
+ ],
+ "B": [
+  {
+   "Id": 1506,
+   "Name": "페비",
+   "NameEn": "Phoebe",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1404,
+   "Name": "기염",
+   "NameEn": "Jiyan",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1504,
+   "Name": "루미",
+   "NameEn": "Lumi",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1105,
+   "Name": "절지",
+   "NameEn": "Zhezhi",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1605,
+   "Name": "방랑자 · 인멸",
+   "NameEn": "Rover (Havoc)",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1505,
+   "Name": "파수인",
+   "NameEn": "Shorekeeper",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "서포트"
+  },
+  {
+   "Id": 1305,
+   "Name": "상리요",
+   "NameEn": "Xiangli Yao",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1203,
+   "Name": "앙코",
+   "NameEn": "Encore",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1106,
+   "Name": "유호",
+   "NameEn": "Youhu",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1301,
+   "Name": "카카루",
+   "NameEn": "Calcharo",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1602,
+   "Name": "단근",
+   "NameEn": "Danjin",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1503,
+   "Name": "벨리나",
+   "NameEn": "Verina",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "서포트"
+  },
+  {
+   "Id": 1502,
+   "Name": "방랑자",
+   "NameEn": "Rover (Spectro)",
+   "Element": {
+    "Id": 5,
+    "Name": "회절",
+    "Icon7": "T_IconElementLight3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1102,
+   "Name": "산화",
+   "NameEn": "Sanhua",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1204,
+   "Name": "모르테피",
+   "NameEn": "Mortefi",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1405,
+   "Name": "감심",
+   "NameEn": "Jianxin",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "서포트"
+  },
+  {
+   "Id": 1202,
+   "Name": "치샤",
+   "NameEn": "Chixia",
+   "Element": {
+    "Id": 2,
+    "Name": "용융",
+    "Icon7": "T_IconElementFire3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  }
+ ],
+ "C": [
+  {
+   "Id": 1104,
+   "Name": "능양",
+   "NameEn": "Lingyang",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 5,
+   "Role": "메인 DPS"
+  },
+  {
+   "Id": 1402,
+   "Name": "양양",
+   "NameEn": "Yangyang",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1601,
+   "Name": "도기",
+   "NameEn": "Taoqi",
+   "Element": {
+    "Id": 6,
+    "Name": "인멸",
+    "Icon7": "T_IconElementDark3.png"
+   },
+   "QualityId": 4,
+   "Role": "서포트"
+  },
+  {
+   "Id": 1408,
+   "Name": "방랑자 · 기류",
+   "NameEn": "Rover (Aero)",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 5,
+   "Role": "서포트"
+  }
+ ],
+ "D": [
+  {
+   "Id": 1103,
+   "Name": "설지",
+   "NameEn": "Baizhi",
+   "Element": {
+    "Id": 1,
+    "Name": "응결",
+    "Icon7": "T_IconElementIce3.png"
+   },
+   "QualityId": 4,
+   "Role": "서포트"
+  },
+  {
+   "Id": 1403,
+   "Name": "알토",
+   "NameEn": "Aalto",
+   "Element": {
+    "Id": 4,
+    "Name": "기류",
+    "Icon7": "T_IconElementWind3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  },
+  {
+   "Id": 1303,
+   "Name": "연무",
+   "NameEn": "Yuanwu",
+   "Element": {
+    "Id": 3,
+    "Name": "전도",
+    "Icon7": "T_IconElementThunder3.png"
+   },
+   "QualityId": 4,
+   "Role": "서브 DPS"
+  }
+ ]
+}

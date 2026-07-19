@@ -1,0 +1,2072 @@
+[
+ {
+  "page": "Prevail the Lasting Night/2024-05-23",
+  "banner_name": "Prevail the Lasting Night",
+  "time_start": "2024-05-23 10:00",
+  "time_end": "2024-06-13 09:59",
+  "featured_5": [
+   "Jiyan"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Chixia",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Verdant Summit/2024-05-23",
+  "banner_name": "Absolute Pulsation: Verdant Summit",
+  "time_start": "2024-05-23 10:00",
+  "time_end": "2024-06-13 09:59",
+  "featured_5": [
+   "Verdant Summit"
+  ],
+  "featured_4": [
+   "Dauntless Evernight",
+   "Variation",
+   "Hollow Mirage"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "When Thunder Pours/2024-06-06",
+  "banner_name": "When Thunder Pours",
+  "time_start": "2024-06-06 10:00",
+  "time_end": "2024-06-26 11:59",
+  "featured_5": [
+   "Yinlin"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Aalto",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Stringmaster/2024-06-06",
+  "banner_name": "Absolute Pulsation: Stringmaster",
+  "time_start": "2024-06-06 10:00",
+  "time_end": "2024-06-26 11:59",
+  "featured_5": [
+   "Stringmaster"
+  ],
+  "featured_4": [
+   "Jinzhou Keeper",
+   "Cadenza",
+   "Lunar Cutter"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Thawborn Renewal/2024-06-28",
+  "banner_name": "Thawborn Renewal",
+  "time_start": "2024-06-28 10:00",
+  "time_end": "2024-07-22 09:59",
+  "featured_5": [
+   "Jinhsi"
+  ],
+  "featured_4": [
+   "Sanhua",
+   "Danjin",
+   "Yangyang"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Ages of Harvest/2024-06-28",
+  "banner_name": "Absolute Pulsation: Ages of Harvest",
+  "time_start": "2024-06-28 10:00",
+  "time_end": "2024-07-22 09:59",
+  "featured_5": [
+   "Ages of Harvest"
+  ],
+  "featured_4": [
+   "Discord",
+   "Commando of Conviction",
+   "Amity Accord"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Vermillion's Ploy/2024-07-22",
+  "banner_name": "Vermillion's Ploy",
+  "time_start": "2024-07-22 10:00",
+  "time_end": "2024-08-14 11:59",
+  "featured_5": [
+   "Changli"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Baizhi",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Blazing Brilliance/2024-07-22",
+  "banner_name": "Absolute Pulsation: Blazing Brilliance",
+  "time_start": "2024-07-22 10:00",
+  "time_end": "2024-08-14 09:59",
+  "featured_5": [
+   "Blazing Brilliance"
+  ],
+  "featured_4": [
+   "Comet Flare",
+   "Overture",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Chromatic Prose/2024-08-15",
+  "banner_name": "Chromatic Prose",
+  "time_start": "2024-08-15 10:00",
+  "time_end": "2024-09-07 09:59",
+  "featured_5": [
+   "Zhezhi"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Baizhi",
+   "Sanhua"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Rime-Draped Sprouts/2024-08-15",
+  "banner_name": "Absolute Pulsation: Rime-Draped Sprouts",
+  "time_start": "2024-08-15 10:00",
+  "time_end": "2024-09-07 09:59",
+  "featured_5": [
+   "Rime-Draped Sprouts"
+  ],
+  "featured_4": [
+   "Dauntless Evernight",
+   "Jinzhou Keeper",
+   "Hollow Mirage"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Celestial Revelation/2024-09-07",
+  "banner_name": "Celestial Revelation",
+  "time_start": "2024-09-07 10:00",
+  "time_end": "2024-09-28 11:59",
+  "featured_5": [
+   "Xiangli Yao"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Aalto",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Verity's Handle/2024-09-07",
+  "banner_name": "Absolute Pulsation: Verity's Handle",
+  "time_start": "2024-09-07 10:00",
+  "time_end": "2024-09-28 09:59",
+  "featured_5": [
+   "Verity's Handle"
+  ],
+  "featured_4": [
+   "Marcato",
+   "Helios Cleaver",
+   "Novaburst"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Till the Sea Turns Clear/2024-09-29",
+  "banner_name": "Till the Sea Turns Clear",
+  "time_start": "2024-09-29 11:00",
+  "time_end": "2024-10-24 09:59",
+  "featured_5": [
+   "Shorekeeper"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Yangyang",
+   "Chixia"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Stellar Symphony/2024-09-29",
+  "banner_name": "Absolute Pulsation: Stellar Symphony",
+  "time_start": "2024-09-29 11:00",
+  "time_end": "2024-10-24 09:59",
+  "featured_5": [
+   "Stellar Symphony"
+  ],
+  "featured_4": [
+   "Endless Collapse",
+   "Discord",
+   "Comet Flare"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Prevail the Lasting Night/2024-10-24",
+  "banner_name": "Prevail the Lasting Night",
+  "time_start": "2024-10-24 10:00",
+  "time_end": "2024-11-13 09:59",
+  "featured_5": [
+   "Jiyan"
+  ],
+  "featured_4": [
+   "Youhu",
+   "Sanhua",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Verdant Summit/2024-10-24",
+  "banner_name": "Absolute Pulsation: Verdant Summit",
+  "time_start": "2024-10-24 11:00",
+  "time_end": "2024-11-13 09:59",
+  "featured_5": [
+   "Verdant Summit"
+  ],
+  "featured_4": [
+   "Celestial Spiral",
+   "Variation",
+   "Helios Cleaver"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "End of Lost Trail/2024-11-14",
+  "banner_name": "End of Lost Trail",
+  "time_start": "2024-11-14 11:00",
+  "time_end": "2024-12-12 09:59",
+  "featured_5": [
+   "Camellya"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Yangyang",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Red Spring/2024-11-14",
+  "banner_name": "Absolute Pulsation: Red Spring",
+  "time_start": "2024-11-14 11:00",
+  "time_end": "2024-12-12 09:59",
+  "featured_5": [
+   "Red Spring"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Novaburst",
+   "Fusion Accretion"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Celestial Revelation/2024-12-12",
+  "banner_name": "Celestial Revelation",
+  "time_start": "2024-12-12 10:00",
+  "time_end": "2025-01-01 11:59",
+  "featured_5": [
+   "Xiangli Yao"
+  ],
+  "featured_4": [
+   "Lumi",
+   "Baizhi",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "When Thunder Pours/2024-12-12",
+  "banner_name": "When Thunder Pours",
+  "time_start": "2024-12-12 10:00",
+  "time_end": "2025-01-01 11:59",
+  "featured_5": [
+   "Yinlin"
+  ],
+  "featured_4": [
+   "Lumi",
+   "Baizhi",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Stringmaster/2024-12-12",
+  "banner_name": "Absolute Pulsation: Stringmaster",
+  "time_start": "2024-12-12 10:00",
+  "time_end": "2025-01-01 11:59",
+  "featured_5": [
+   "Stringmaster"
+  ],
+  "featured_4": [
+   "Waning Redshift",
+   "Jinzhou Keeper",
+   "Hollow Mirage"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Verity's Handle/2024-12-12",
+  "banner_name": "Absolute Pulsation: Verity's Handle",
+  "time_start": "2024-12-12 10:00",
+  "time_end": "2025-01-01 11:59",
+  "featured_5": [
+   "Verity's Handle"
+  ],
+  "featured_4": [
+   "Waning Redshift",
+   "Jinzhou Keeper",
+   "Hollow Mirage"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Chromatic Prose/2025-01-02",
+  "banner_name": "Chromatic Prose",
+  "time_start": "2025-01-02 10:00",
+  "time_end": "2025-01-23 09:59",
+  "featured_5": [
+   "Zhezhi"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Sanhua",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "When Silence Tolls/2025-01-02",
+  "banner_name": "When Silence Tolls",
+  "time_start": "2025-01-02 10:00",
+  "time_end": "2025-01-23 09:59",
+  "featured_5": [
+   "Carlotta"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Sanhua",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Rime-Draped Sprouts/2025-01-02",
+  "banner_name": "Absolute Pulsation: Rime-Draped Sprouts",
+  "time_start": "2025-01-02 10:00",
+  "time_end": "2025-01-23 09:59",
+  "featured_5": [
+   "Rime-Draped Sprouts"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Fusion Accretion",
+   "Amity Accord"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: The Last Dance/2025-01-02",
+  "banner_name": "Absolute Pulsation: The Last Dance",
+  "time_start": "2025-01-02 10:00",
+  "time_end": "2025-01-23 09:59",
+  "featured_5": [
+   "The Last Dance"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Fusion Accretion",
+   "Amity Accord"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Stage in the Box/2025-01-23",
+  "banner_name": "Stage in the Box",
+  "time_start": "2025-01-23 10:00",
+  "time_end": "2025-02-12 11:59",
+  "featured_5": [
+   "Roccia"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Youhu",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Thawborn Renewal/2025-01-23",
+  "banner_name": "Thawborn Renewal",
+  "time_start": "2025-01-23 10:00",
+  "time_end": "2025-02-12 11:59",
+  "featured_5": [
+   "Jinhsi"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Youhu",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Ages of Harvest/2025-01-23",
+  "banner_name": "Absolute Pulsation: Ages of Harvest",
+  "time_start": "2025-01-23 10:00",
+  "time_end": "2025-02-12 09:59",
+  "featured_5": [
+   "Ages of Harvest"
+  ],
+  "featured_4": [
+   "Celestial Spiral",
+   "Dauntless Evernight",
+   "Variation"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Tragicomedy/2025-01-23",
+  "banner_name": "Absolute Pulsation: Tragicomedy",
+  "time_start": "2025-01-23 10:00",
+  "time_end": "2025-02-12 09:59",
+  "featured_5": [
+   "Tragicomedy"
+  ],
+  "featured_4": [
+   "Celestial Spiral",
+   "Dauntless Evernight",
+   "Variation"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "With Hushed Whispers/2025-02-13",
+  "banner_name": "With Hushed Whispers",
+  "time_start": "2025-02-13 10:00",
+  "time_end": "2025-03-06 09:59",
+  "featured_5": [
+   "Phoebe"
+  ],
+  "featured_4": [
+   "Lumi",
+   "Chixia",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Luminous Hymn/2025-02-13",
+  "banner_name": "Absolute Pulsation: Luminous Hymn",
+  "time_start": "2025-02-13 10:00",
+  "time_end": "2025-03-06 09:59",
+  "featured_5": [
+   "Luminous Hymn"
+  ],
+  "featured_4": [
+   "Jinzhou Keeper",
+   "Discord",
+   "Novaburst"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Blaze Across the Deep/2025-03-06",
+  "banner_name": "Blaze Across the Deep",
+  "time_start": "2025-03-06 10:00",
+  "time_end": "2025-03-26 09:59",
+  "featured_5": [
+   "Brant"
+  ],
+  "featured_4": [
+   "Youhu",
+   "Taoqi",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Vermillion's Ploy/2025-03-06",
+  "banner_name": "Vermillion's Ploy",
+  "time_start": "2025-03-06 10:00",
+  "time_end": "2025-03-26 09:59",
+  "featured_5": [
+   "Changli"
+  ],
+  "featured_4": [
+   "Youhu",
+   "Taoqi",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Blazing Brilliance/2025-03-06",
+  "banner_name": "Absolute Pulsation: Blazing Brilliance",
+  "time_start": "2025-03-06 10:00",
+  "time_end": "2025-03-26 09:59",
+  "featured_5": [
+   "Blazing Brilliance"
+  ],
+  "featured_4": [
+   "Waning Redshift",
+   "Comet Flare",
+   "Marcato"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Unflickering Valor/2025-03-06",
+  "banner_name": "Absolute Pulsation: Unflickering Valor",
+  "time_start": "2025-03-06 10:00",
+  "time_end": "2025-03-26 09:59",
+  "featured_5": [
+   "Unflickering Valor"
+  ],
+  "featured_4": [
+   "Waning Redshift",
+   "Comet Flare",
+   "Marcato"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "End of Lost Trail/2025-03-27",
+  "banner_name": "End of Lost Trail",
+  "time_start": "2025-03-27 10:00",
+  "time_end": "2025-04-17 09:59",
+  "featured_5": [
+   "Camellya"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Chixia",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Neptune's Lullaby/2025-03-27",
+  "banner_name": "Neptune's Lullaby",
+  "time_start": "2025-03-27 10:00",
+  "time_end": "2025-04-17 09:59",
+  "featured_5": [
+   "Cantarella"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Chixia",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Red Spring/2025-03-27",
+  "banner_name": "Absolute Pulsation: Red Spring",
+  "time_start": "2025-03-27 10:00",
+  "time_end": "2025-04-17 09:59",
+  "featured_5": [
+   "Red Spring"
+  ],
+  "featured_4": [
+   "Fusion Accretion",
+   "Lunar Cutter",
+   "Cadenza"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Whispers of Sirens/2025-03-27",
+  "banner_name": "Absolute Pulsation: Whispers of Sirens",
+  "time_start": "2025-03-27 10:00",
+  "time_end": "2025-04-17 09:59",
+  "featured_5": [
+   "Whispers of Sirens"
+  ],
+  "featured_4": [
+   "Fusion Accretion",
+   "Lunar Cutter",
+   "Cadenza"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Till the Sea Turns Clear/2025-04-17",
+  "banner_name": "Till the Sea Turns Clear",
+  "time_start": "2025-04-17 10:00",
+  "time_end": "2025-04-28 09:59",
+  "featured_5": [
+   "Shorekeeper"
+  ],
+  "featured_4": [
+   "Baizhi",
+   "Sanhua",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Stellar Symphony/2025-04-17",
+  "banner_name": "Absolute Pulsation: Stellar Symphony",
+  "time_start": "2025-04-17 10:00",
+  "time_end": "2025-04-28 09:59",
+  "featured_5": [
+   "Stellar Symphony"
+  ],
+  "featured_4": [
+   "Comet Flare",
+   "Endless Collapse",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Between Light and Shadow/2025-04-29",
+  "banner_name": "Between Light and Shadow",
+  "time_start": "2025-04-29 10:00",
+  "time_end": "2025-05-22 09:59",
+  "featured_5": [
+   "Zani"
+  ],
+  "featured_4": [
+   "Lumi",
+   "Taoqi",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Blazing Justice/2025-04-29",
+  "banner_name": "Absolute Pulsation: Blazing Justice",
+  "time_start": "2025-04-29 10:00",
+  "time_end": "2025-05-22 09:59",
+  "featured_5": [
+   "Blazing Justice"
+  ],
+  "featured_4": [
+   "Dauntless Evernight",
+   "Overture",
+   "Hollow Mirage"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Through Verses and Rhythms/2025-05-22",
+  "banner_name": "Through Verses and Rhythms",
+  "time_start": "2025-05-22 10:00",
+  "time_end": "2025-06-11 09:59",
+  "featured_5": [
+   "Ciaccona"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Yangyang",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Woodland Aria/2025-05-22",
+  "banner_name": "Absolute Pulsation: Woodland Aria",
+  "time_start": "2025-05-22 10:00",
+  "time_end": "2025-06-11 09:59",
+  "featured_5": [
+   "Woodland Aria"
+  ],
+  "featured_4": [
+   "Undying Flame",
+   "Variation",
+   "Relativistic Jet"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Dance in the Storm's Wake/2025-06-12",
+  "banner_name": "Dance in the Storm's Wake",
+  "time_start": "2025-06-12 10:00",
+  "time_end": "2025-07-03 09:59",
+  "featured_5": [
+   "Cartethyia"
+  ],
+  "featured_4": [
+   "Aalto",
+   "Baizhi",
+   "Youhu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Defier's Thorn/2025-06-12",
+  "banner_name": "Absolute Pulsation: Defier's Thorn",
+  "time_start": "2025-06-12 10:00",
+  "time_end": "2025-07-03 09:59",
+  "featured_5": [
+   "Defier's Thorn"
+  ],
+  "featured_4": [
+   "Endless Collapse",
+   "Marcato",
+   "Amity Accord"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Roar of Triumph/2025-07-03",
+  "banner_name": "Roar of Triumph",
+  "time_start": "2025-07-03 10:00",
+  "time_end": "2025-07-23 09:59",
+  "featured_5": [
+   "Lupa"
+  ],
+  "featured_4": [
+   "Sanhua",
+   "Taoqi",
+   "Chixia"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Wildfire Mark/2025-07-03",
+  "banner_name": "Absolute Pulsation: Wildfire Mark",
+  "time_start": "2025-07-03 10:00",
+  "time_end": "2025-07-23 09:59",
+  "featured_5": [
+   "Wildfire Mark"
+  ],
+  "featured_4": [
+   "Helios Cleaver",
+   "Commando of Conviction",
+   "Jinzhou Keeper"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Requiem Without End/2025-07-24",
+  "banner_name": "Requiem Without End",
+  "time_start": "2025-07-24 10:00",
+  "time_end": "2025-08-14 09:59",
+  "featured_5": [
+   "Phrolova"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Lumi",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Stage in the Box/2025-07-24",
+  "banner_name": "Stage in the Box",
+  "time_start": "2025-07-24 10:00",
+  "time_end": "2025-08-14 09:59",
+  "featured_5": [
+   "Roccia"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Lumi",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Lethean Elegy/2025-07-24",
+  "banner_name": "Absolute Pulsation: Lethean Elegy",
+  "time_start": "2025-07-24 10:00",
+  "time_end": "2025-08-14 09:59",
+  "featured_5": [
+   "Lethean Elegy"
+  ],
+  "featured_4": [
+   "Jinzhou Keeper",
+   "Celestial Spiral",
+   "Lunar Cutter"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Tragicomedy/2025-07-24",
+  "banner_name": "Absolute Pulsation: Tragicomedy",
+  "time_start": "2025-07-24 10:00",
+  "time_end": "2025-08-14 09:59",
+  "featured_5": [
+   "Tragicomedy"
+  ],
+  "featured_4": [
+   "Jinzhou Keeper",
+   "Celestial Spiral",
+   "Lunar Cutter"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Blaze Across the Deep/2025-08-14",
+  "banner_name": "Blaze Across the Deep",
+  "time_start": "2025-08-14 10:00",
+  "time_end": "2025-08-27 11:59",
+  "featured_5": [
+   "Brant"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Yangyang",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Neptune's Lullaby/2025-08-14",
+  "banner_name": "Neptune's Lullaby",
+  "time_start": "2025-08-14 10:00",
+  "time_end": "2025-08-27 11:59",
+  "featured_5": [
+   "Cantarella"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Yangyang",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Unflickering Valor/2025-08-14",
+  "banner_name": "Absolute Pulsation: Unflickering Valor",
+  "time_start": "2025-08-14 10:00",
+  "time_end": "2025-08-27 11:59",
+  "featured_5": [
+   "Unflickering Valor"
+  ],
+  "featured_4": [
+   "Variation",
+   "Overture",
+   "Novaburst"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Whispers of Sirens/2025-08-14",
+  "banner_name": "Absolute Pulsation: Whispers of Sirens",
+  "time_start": "2025-08-14 10:00",
+  "time_end": "2025-08-27 11:59",
+  "featured_5": [
+   "Whispers of Sirens"
+  ],
+  "featured_4": [
+   "Variation",
+   "Overture",
+   "Novaburst"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Eternal Radiance on the Crown/2025-08-28",
+  "banner_name": "Eternal Radiance on the Crown",
+  "time_start": "2025-08-28 10:00",
+  "time_end": "2025-09-17 09:59",
+  "featured_5": [
+   "Augusta"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Youhu",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Till the Sea Turns Clear/2025-08-28",
+  "banner_name": "Till the Sea Turns Clear",
+  "time_start": "2025-08-28 10:00",
+  "time_end": "2025-09-17 09:59",
+  "featured_5": [
+   "Shorekeeper"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Youhu",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "When Silence Tolls/2025-08-28",
+  "banner_name": "When Silence Tolls",
+  "time_start": "2025-08-28 10:00",
+  "time_end": "2025-09-17 09:59",
+  "featured_5": [
+   "Carlotta"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Youhu",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Stellar Symphony/2025-08-28",
+  "banner_name": "Absolute Pulsation: Stellar Symphony",
+  "time_start": "2025-08-28 10:00",
+  "time_end": "2025-09-17 09:59",
+  "featured_5": [
+   "Stellar Symphony"
+  ],
+  "featured_4": [
+   "Waning Redshift",
+   "Undying Flame",
+   "Comet Flare"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: The Last Dance/2025-08-28",
+  "banner_name": "Absolute Pulsation: The Last Dance",
+  "time_start": "2025-08-28 10:00",
+  "time_end": "2025-09-17 09:59",
+  "featured_5": [
+   "The Last Dance"
+  ],
+  "featured_4": [
+   "Waning Redshift",
+   "Undying Flame",
+   "Comet Flare"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Thunderflare Dominion/2025-08-28",
+  "banner_name": "Absolute Pulsation: Thunderflare Dominion",
+  "time_start": "2025-08-28 10:00",
+  "time_end": "2025-09-17 09:59",
+  "featured_5": [
+   "Thunderflare Dominion"
+  ],
+  "featured_4": [
+   "Waning Redshift",
+   "Undying Flame",
+   "Comet Flare"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Across Time's Waxes and Wanes/2025-09-17",
+  "banner_name": "Across Time's Waxes and Wanes",
+  "time_start": "2025-09-17 10:00",
+  "time_end": "2025-10-08 11:59",
+  "featured_5": [
+   "Iuno"
+  ],
+  "featured_4": [
+   "Aalto",
+   "Baizhi",
+   "Taoqi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Through Verses and Rhythms/2025-09-17",
+  "banner_name": "Through Verses and Rhythms",
+  "time_start": "2025-09-17 10:00",
+  "time_end": "2025-10-08 11:59",
+  "featured_5": [
+   "Ciaccona"
+  ],
+  "featured_4": [
+   "Aalto",
+   "Baizhi",
+   "Taoqi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Moongazer's Sigil/2025-09-17",
+  "banner_name": "Absolute Pulsation: Moongazer's Sigil",
+  "time_start": "2025-09-17 10:00",
+  "time_end": "2025-10-08 09:59",
+  "featured_5": [
+   "Moongazer's Sigil"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Celestial Spiral",
+   "Fusion Accretion"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Woodland Aria/2025-09-17",
+  "banner_name": "Absolute Pulsation: Woodland Aria",
+  "time_start": "2025-09-17 10:00",
+  "time_end": "2025-10-08 09:59",
+  "featured_5": [
+   "Woodland Aria"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Celestial Spiral",
+   "Fusion Accretion"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "From Ashes/2025-10-09",
+  "banner_name": "From Ashes",
+  "time_start": "2025-10-09 10:00",
+  "time_end": "2025-10-30 09:59",
+  "featured_5": [
+   "Galbrena"
+  ],
+  "featured_4": [
+   "Sanhua",
+   "Mortefi",
+   "Lumi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Roar of Triumph/2025-10-09",
+  "banner_name": "Roar of Triumph",
+  "time_start": "2025-10-09 10:00",
+  "time_end": "2025-10-30 09:59",
+  "featured_5": [
+   "Lupa"
+  ],
+  "featured_4": [
+   "Sanhua",
+   "Mortefi",
+   "Lumi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Lux & Umbra/2025-10-09",
+  "banner_name": "Absolute Pulsation: Lux & Umbra",
+  "time_start": "2025-10-09 10:00",
+  "time_end": "2025-10-30 09:59",
+  "featured_5": [
+   "Lux & Umbra"
+  ],
+  "featured_4": [
+   "Novaburst",
+   "Helios Cleaver",
+   "Fusion Accretion"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Wildfire Mark/2025-10-09",
+  "banner_name": "Absolute Pulsation: Wildfire Mark",
+  "time_start": "2025-10-09 10:00",
+  "time_end": "2025-10-30 09:59",
+  "featured_5": [
+   "Wildfire Mark"
+  ],
+  "featured_4": [
+   "Novaburst",
+   "Helios Cleaver",
+   "Fusion Accretion"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Between Light and Shadow/2025-10-30",
+  "banner_name": "Between Light and Shadow",
+  "time_start": "2025-10-30 10:00",
+  "time_end": "2025-11-19 11:59",
+  "featured_5": [
+   "Zani"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Taoqi",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Wanderer Knows No Far and Near/2025-10-30",
+  "banner_name": "Wanderer Knows No Far and Near",
+  "time_start": "2025-10-30 10:00",
+  "time_end": "2025-11-19 11:59",
+  "featured_5": [
+   "Qiuyuan"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Taoqi",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Blazing Justice/2025-10-30",
+  "banner_name": "Absolute Pulsation: Blazing Justice",
+  "time_start": "2025-10-30 10:00",
+  "time_end": "2025-11-19 11:59",
+  "featured_5": [
+   "Blazing Justice"
+  ],
+  "featured_4": [
+   "Endless Collapse",
+   "Hollow Mirage",
+   "Dauntless Evernight"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Emerald Sentence/2025-10-30",
+  "banner_name": "Absolute Pulsation: Emerald Sentence",
+  "time_start": "2025-10-30 10:00",
+  "time_end": "2025-11-19 11:59",
+  "featured_5": [
+   "Emerald Sentence"
+  ],
+  "featured_4": [
+   "Endless Collapse",
+   "Hollow Mirage",
+   "Dauntless Evernight"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Horizon of Dawnbreak/2025-11-20",
+  "banner_name": "Horizon of Dawnbreak",
+  "time_start": "2025-11-20 10:30",
+  "time_end": "2025-12-11 09:59",
+  "featured_5": [
+   "Chisa"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Yuanwu",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "With Hushed Whispers/2025-11-20",
+  "banner_name": "With Hushed Whispers",
+  "time_start": "2025-11-20 10:30",
+  "time_end": "2025-12-11 09:59",
+  "featured_5": [
+   "Phoebe"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Yuanwu",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Kumokiri/2025-11-20",
+  "banner_name": "Absolute Pulsation: Kumokiri",
+  "time_start": "2025-11-20 10:30",
+  "time_end": "2025-12-11 09:59",
+  "featured_5": [
+   "Kumokiri"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Fusion Accretion",
+   "Helios Cleaver"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Luminous Hymn/2025-11-20",
+  "banner_name": "Absolute Pulsation: Luminous Hymn",
+  "time_start": "2025-11-20 10:30",
+  "time_end": "2025-12-11 09:59",
+  "featured_5": [
+   "Luminous Hymn"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Fusion Accretion",
+   "Helios Cleaver"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Neptune's Lullaby/2025-12-11",
+  "banner_name": "Neptune's Lullaby",
+  "time_start": "2025-12-11 10:00",
+  "time_end": "2025-12-24 11:59",
+  "featured_5": [
+   "Cantarella"
+  ],
+  "featured_4": [
+   "Buling",
+   "Danjin",
+   "Chixia"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Requiem Without End/2025-12-11",
+  "banner_name": "Requiem Without End",
+  "time_start": "2025-12-11 10:00",
+  "time_end": "2025-12-24 11:59",
+  "featured_5": [
+   "Phrolova"
+  ],
+  "featured_4": [
+   "Buling",
+   "Danjin",
+   "Chixia"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Lethean Elegy/2025-12-11",
+  "banner_name": "Absolute Pulsation: Lethean Elegy",
+  "time_start": "2025-12-11 10:00",
+  "time_end": "2025-12-24 11:59",
+  "featured_5": [
+   "Lethean Elegy"
+  ],
+  "featured_4": [
+   "Jinzhou Keeper",
+   "Celestial Spiral",
+   "Lunar Cutter"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Whispers of Sirens/2025-12-11",
+  "banner_name": "Absolute Pulsation: Whispers of Sirens",
+  "time_start": "2025-12-11 10:00",
+  "time_end": "2025-12-24 11:59",
+  "featured_5": [
+   "Whispers of Sirens"
+  ],
+  "featured_4": [
+   "Jinzhou Keeper",
+   "Celestial Spiral",
+   "Lunar Cutter"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Dance in the Storm's Wake/2025-12-25",
+  "banner_name": "Dance in the Storm's Wake",
+  "time_start": "2025-12-25 10:45",
+  "time_end": "2026-01-15 09:59",
+  "featured_5": [
+   "Cartethyia"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Youhu",
+   "Baizhi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Through Verses and Rhythms/2025-12-25",
+  "banner_name": "Through Verses and Rhythms",
+  "time_start": "2025-12-25 10:45",
+  "time_end": "2026-01-15 09:59",
+  "featured_5": [
+   "Ciaccona"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Youhu",
+   "Baizhi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Undefined Spectrum/2025-12-25",
+  "banner_name": "Undefined Spectrum",
+  "time_start": "2025-12-25 10:45",
+  "time_end": "2026-01-15 09:59",
+  "featured_5": [
+   "Lynae"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Youhu",
+   "Baizhi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Defier's Thorn/2025-12-25",
+  "banner_name": "Absolute Pulsation: Defier's Thorn",
+  "time_start": "2025-12-25 10:45",
+  "time_end": "2026-01-15 09:59",
+  "featured_5": [
+   "Defier's Thorn"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Endless Collapse",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Spectrum Blaster/2025-12-25",
+  "banner_name": "Absolute Pulsation: Spectrum Blaster",
+  "time_start": "2025-12-25 10:45",
+  "time_end": "2026-01-15 09:59",
+  "featured_5": [
+   "Spectrum Blaster"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Endless Collapse",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Woodland Aria/2025-12-25",
+  "banner_name": "Absolute Pulsation: Woodland Aria",
+  "time_start": "2025-12-25 10:45",
+  "time_end": "2026-01-15 09:59",
+  "featured_5": [
+   "Woodland Aria"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Endless Collapse",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Across Time's Waxes and Wanes/2026-01-15",
+  "banner_name": "Across Time's Waxes and Wanes",
+  "time_start": "2026-01-15 10:00",
+  "time_end": "2026-02-04 11:59",
+  "featured_5": [
+   "Iuno"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Sanhua",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Distant May the Starlights Be/2026-01-15",
+  "banner_name": "Distant May the Starlights Be",
+  "time_start": "2026-01-15 10:00",
+  "time_end": "2026-02-04 11:59",
+  "featured_5": [
+   "Mornye"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Sanhua",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Eternal Radiance on the Crown/2026-01-15",
+  "banner_name": "Eternal Radiance on the Crown",
+  "time_start": "2026-01-15 10:00",
+  "time_end": "2026-02-04 11:59",
+  "featured_5": [
+   "Augusta"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Sanhua",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Moongazer's Sigil/2026-01-15",
+  "banner_name": "Absolute Pulsation: Moongazer's Sigil",
+  "time_start": "2026-01-15 10:00",
+  "time_end": "2026-02-04 09:59",
+  "featured_5": [
+   "Moongazer's Sigil"
+  ],
+  "featured_4": [
+   "Discord",
+   "Waning Redshift",
+   "Celestial Spiral"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Starfield Calibrator/2026-01-15",
+  "banner_name": "Absolute Pulsation: Starfield Calibrator",
+  "time_start": "2026-01-15 10:00",
+  "time_end": "2026-02-04 09:59",
+  "featured_5": [
+   "Starfield Calibrator"
+  ],
+  "featured_4": [
+   "Discord",
+   "Waning Redshift",
+   "Celestial Spiral"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Thunderflare Dominion/2026-01-15",
+  "banner_name": "Absolute Pulsation: Thunderflare Dominion",
+  "time_start": "2026-01-15 10:00",
+  "time_end": "2026-02-04 09:59",
+  "featured_5": [
+   "Thunderflare Dominion"
+  ],
+  "featured_4": [
+   "Discord",
+   "Waning Redshift",
+   "Celestial Spiral"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Horizon of Dawnbreak/2026-02-05",
+  "banner_name": "Horizon of Dawnbreak",
+  "time_start": "2026-02-05 08:55",
+  "time_end": "2026-02-26 09:59",
+  "featured_5": [
+   "Chisa"
+  ],
+  "featured_4": [
+   "Mortefi",
+   "Taoqi",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Roar of Triumph/2026-02-05",
+  "banner_name": "Roar of Triumph",
+  "time_start": "2026-02-05 08:55",
+  "time_end": "2026-02-26 09:59",
+  "featured_5": [
+   "Lupa"
+  ],
+  "featured_4": [
+   "Mortefi",
+   "Taoqi",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Take Flight in Spring/2026-02-05",
+  "banner_name": "Take Flight in Spring",
+  "time_start": "2026-02-05 08:55",
+  "time_end": "2026-02-26 09:59",
+  "featured_5": [
+   "Aemeath"
+  ],
+  "featured_4": [
+   "Mortefi",
+   "Taoqi",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Everbright Polestar/2026-02-05",
+  "banner_name": "Absolute Pulsation: Everbright Polestar",
+  "time_start": "2026-02-05 08:55",
+  "time_end": "2026-02-26 09:59",
+  "featured_5": [
+   "Everbright Polestar"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Waning Redshift",
+   "Cadenza"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Kumokiri/2026-02-05",
+  "banner_name": "Absolute Pulsation: Kumokiri",
+  "time_start": "2026-02-05 08:55",
+  "time_end": "2026-02-26 09:59",
+  "featured_5": [
+   "Kumokiri"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Waning Redshift",
+   "Cadenza"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Wildfire Mark/2026-02-05",
+  "banner_name": "Absolute Pulsation: Wildfire Mark",
+  "time_start": "2026-02-05 08:55",
+  "time_end": "2026-02-26 09:59",
+  "featured_5": [
+   "Wildfire Mark"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Waning Redshift",
+   "Cadenza"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "From Ashes/2026-02-26",
+  "banner_name": "From Ashes",
+  "time_start": "2026-02-26 10:00",
+  "time_end": "2026-03-18 11:59",
+  "featured_5": [
+   "Galbrena"
+  ],
+  "featured_4": [
+   "Sanhua",
+   "Yuanwu",
+   "Lumi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "When Winter Thaws/2026-02-26",
+  "banner_name": "When Winter Thaws",
+  "time_start": "2026-02-26 10:00",
+  "time_end": "2026-03-18 11:59",
+  "featured_5": [
+   "Luuk Herssen"
+  ],
+  "featured_4": [
+   "Lumi",
+   "Sanhua",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Daybreaker's Spine/2026-02-26",
+  "banner_name": "Absolute Pulsation: Daybreaker's Spine",
+  "time_start": "2026-02-26 10:00",
+  "time_end": "2026-03-18 11:59",
+  "featured_5": [
+   "Daybreaker's Spine"
+  ],
+  "featured_4": [
+   "Hollow Mirage",
+   "Jinzhou Keeper",
+   "Overture"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Lux & Umbra/2026-02-26",
+  "banner_name": "Absolute Pulsation: Lux & Umbra",
+  "time_start": "2026-02-26 10:00",
+  "time_end": "2026-03-18 11:59",
+  "featured_5": [
+   "Lux & Umbra"
+  ],
+  "featured_4": [
+   "Hollow Mirage",
+   "Jinzhou Keeper",
+   "Overture"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Wanderer Knows No Far and Near/2026-03-19",
+  "banner_name": "Wanderer Knows No Far and Near",
+  "time_start": "2026-03-19 11:00",
+  "time_end": "2026-04-09 09:59",
+  "featured_5": [
+   "Qiuyuan"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Sanhua",
+   "Buling"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "When the Runes Glitter/2026-03-19",
+  "banner_name": "When the Runes Glitter",
+  "time_start": "2026-03-19 11:00",
+  "time_end": "2026-04-09 09:59",
+  "featured_5": [
+   "Sigrika"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Sanhua",
+   "Buling"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Emerald Sentence/2026-03-19",
+  "banner_name": "Absolute Pulsation: Emerald Sentence",
+  "time_start": "2026-03-19 11:00",
+  "time_end": "2026-04-09 09:59",
+  "featured_5": [
+   "Emerald Sentence"
+  ],
+  "featured_4": [
+   "Endless Collapse",
+   "Celestial Spiral",
+   "Lunar Cutter"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Solsworn Ciphers/2026-03-19",
+  "banner_name": "Absolute Pulsation: Solsworn Ciphers",
+  "time_start": "2026-03-19 11:00",
+  "time_end": "2026-04-09 09:59",
+  "featured_5": [
+   "Solsworn Ciphers"
+  ],
+  "featured_4": [
+   "Endless Collapse",
+   "Celestial Spiral",
+   "Lunar Cutter"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Between Light and Shadow/2026-04-09",
+  "banner_name": "Between Light and Shadow",
+  "time_start": "2026-04-09 10:00",
+  "time_end": "2026-04-29 11:59",
+  "featured_5": [
+   "Zani"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Youhu",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Undefined Spectrum/2026-04-09",
+  "banner_name": "Undefined Spectrum",
+  "time_start": "2026-04-09 10:00",
+  "time_end": "2026-04-29 11:59",
+  "featured_5": [
+   "Lynae"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Youhu",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "With Hushed Whispers/2026-04-09",
+  "banner_name": "With Hushed Whispers",
+  "time_start": "2026-04-09 10:00",
+  "time_end": "2026-04-29 11:59",
+  "featured_5": [
+   "Phoebe"
+  ],
+  "featured_4": [
+   "Taoqi",
+   "Youhu",
+   "Danjin"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Blazing Justice/2026-04-09",
+  "banner_name": "Absolute Pulsation: Blazing Justice",
+  "time_start": "2026-04-09 10:00",
+  "time_end": "2026-04-29 11:59",
+  "featured_5": [
+   "Blazing Justice"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Marcato",
+   "Variation"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Luminous Hymn/2026-04-09",
+  "banner_name": "Absolute Pulsation: Luminous Hymn",
+  "time_start": "2026-04-09 10:00",
+  "time_end": "2026-04-29 11:59",
+  "featured_5": [
+   "Luminous Hymn"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Marcato",
+   "Variation"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Spectrum Blaster/2026-04-09",
+  "banner_name": "Absolute Pulsation: Spectrum Blaster",
+  "time_start": "2026-04-09 10:00",
+  "time_end": "2026-04-29 11:59",
+  "featured_5": [
+   "Spectrum Blaster"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Marcato",
+   "Variation"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Across Time's Waxes and Wanes/2026-04-30",
+  "banner_name": "Across Time's Waxes and Wanes",
+  "time_start": "2026-04-30",
+  "time_end": "2026-05-21 09:59",
+  "featured_5": [
+   "Iuno"
+  ],
+  "featured_4": [
+   "Baizhi",
+   "Aalto",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Distant May the Starlights Be/2026-04-30",
+  "banner_name": "Distant May the Starlights Be",
+  "time_start": "2026-04-30",
+  "time_end": "2026-05-21 09:59",
+  "featured_5": [
+   "Mornye"
+  ],
+  "featured_4": [
+   "Baizhi",
+   "Aalto",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Thousand Futures Mirrored in Snow/2026-04-30",
+  "banner_name": "Thousand Futures Mirrored in Snow",
+  "time_start": "2026-04-30",
+  "time_end": "2026-05-21 09:59",
+  "featured_5": [
+   "Hiyuki"
+  ],
+  "featured_4": [
+   "Baizhi",
+   "Aalto",
+   "Yuanwu"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Frostburn/2026-04-30",
+  "banner_name": "Absolute Pulsation: Frostburn",
+  "time_start": "2026-04-30 00:00",
+  "time_end": "2026-05-21 09:59",
+  "featured_5": [
+   "Frostburn"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Discord",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Moongazer's Sigil/2026-04-30",
+  "banner_name": "Absolute Pulsation: Moongazer's Sigil",
+  "time_start": "2026-04-30 00:00",
+  "time_end": "2026-05-21 09:59",
+  "featured_5": [
+   "Moongazer's Sigil"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Discord",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Starfield Calibrator/2026-04-30",
+  "banner_name": "Absolute Pulsation: Starfield Calibrator",
+  "time_start": "2026-04-30 00:00",
+  "time_end": "2026-05-21 09:59",
+  "featured_5": [
+   "Starfield Calibrator"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Discord",
+   "Undying Flame"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "False Promise for Tomorrow/2026-05-21",
+  "banner_name": "False Promise for Tomorrow",
+  "time_start": "2026-05-21 10:00",
+  "time_end": "2026-06-07 11:59",
+  "featured_5": [
+   "Denia"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Buling",
+   "Yangyang"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Horizon of Dawnbreak/2026-05-21",
+  "banner_name": "Horizon of Dawnbreak",
+  "time_start": "2026-05-21 10:00",
+  "time_end": "2026-06-07 11:59",
+  "featured_5": [
+   "Chisa"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Buling",
+   "Yangyang"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Requiem Without End/2026-05-21",
+  "banner_name": "Requiem Without End",
+  "time_start": "2026-05-21 10:00",
+  "time_end": "2026-06-07 11:59",
+  "featured_5": [
+   "Phrolova"
+  ],
+  "featured_4": [
+   "Chixia",
+   "Buling",
+   "Yangyang"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Forged Dwarf Star/2026-05-21",
+  "banner_name": "Absolute Pulsation: Forged Dwarf Star",
+  "time_start": "2026-05-21 10:00",
+  "time_end": "2026-06-07 11:59",
+  "featured_5": [
+   "Forged Dwarf Star"
+  ],
+  "featured_4": [
+   "Fusion Accretion",
+   "Waning Redshift",
+   "Novaburst"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Kumokiri/2026-05-21",
+  "banner_name": "Absolute Pulsation: Kumokiri",
+  "time_start": "2026-05-21 10:00",
+  "time_end": "2026-06-07 11:59",
+  "featured_5": [
+   "Kumokiri"
+  ],
+  "featured_4": [
+   "Fusion Accretion",
+   "Waning Redshift",
+   "Novaburst"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Lethean Elegy/2026-05-21",
+  "banner_name": "Absolute Pulsation: Lethean Elegy",
+  "time_start": "2026-05-21 10:00",
+  "time_end": "2026-06-07 11:59",
+  "featured_5": [
+   "Lethean Elegy"
+  ],
+  "featured_4": [
+   "Fusion Accretion",
+   "Waning Redshift",
+   "Novaburst"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Tomorrow in the Frame/2026-06-13",
+  "banner_name": "Tomorrow in the Frame",
+  "time_start": "2026-06-13 10:00",
+  "time_end": "2026-07-09 11:59",
+  "featured_5": [
+   "Lucilla"
+  ],
+  "featured_4": [
+   "Lumi",
+   "Youhu",
+   "Taoqi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Freeze Frame/2026-06-13",
+  "banner_name": "Absolute Pulsation: Freeze Frame",
+  "time_start": "2026-06-13 10:00",
+  "time_end": "2026-07-09 11:59",
+  "featured_5": [
+   "Freeze Frame"
+  ],
+  "featured_4": [
+   "Relativistic Jet",
+   "Cadenza",
+   "Fusion Accretion"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Dance in the Storm's Wake/2026-06-18",
+  "banner_name": "Dance in the Storm's Wake",
+  "time_start": "2026-06-18 10:00",
+  "time_end": "2026-07-09 11:59",
+  "featured_5": [
+   "Cartethyia"
+  ],
+  "featured_4": [
+   "Yangyang",
+   "Yuanwu",
+   "Mortefi"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Defier's Thorn/2026-06-18",
+  "banner_name": "Absolute Pulsation: Defier's Thorn",
+  "time_start": "2026-06-18 10:00",
+  "time_end": "2026-07-09 11:59",
+  "featured_5": [
+   "Defier's Thorn"
+  ],
+  "featured_4": [
+   "Endless Collapse",
+   "Marcato",
+   "Amity Accord"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Undefined Spectrum/2026-07-10",
+  "banner_name": "Undefined Spectrum",
+  "time_start": "2026-07-10 09:10",
+  "time_end": "2026-07-30 09:59",
+  "featured_5": [
+   "Lynae"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Chixia",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Voices on Azure Feathers/2026-07-10",
+  "banner_name": "Voices on Azure Feathers",
+  "time_start": "2026-07-10 09:10",
+  "time_end": "2026-07-30 09:59",
+  "featured_5": [
+   "Yangyang: Xuanling"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Chixia",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "When Winter Thaws/2026-07-10",
+  "banner_name": "When Winter Thaws",
+  "time_start": "2026-07-10 09:10",
+  "time_end": "2026-07-30 09:59",
+  "featured_5": [
+   "Luuk Herssen"
+  ],
+  "featured_4": [
+   "Danjin",
+   "Chixia",
+   "Aalto"
+  ],
+  "kind": "resonator"
+ },
+ {
+  "page": "Absolute Pulsation: Azure Oath/2026-07-10",
+  "banner_name": "Absolute Pulsation: Azure Oath",
+  "time_start": "2026-07-10 09:10",
+  "time_end": "2026-07-30 09:59",
+  "featured_5": [
+   "Azure Oath"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Hollow Mirage",
+   "Discord"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Daybreaker's Spine/2026-07-10",
+  "banner_name": "Absolute Pulsation: Daybreaker's Spine",
+  "time_start": "2026-07-10 09:10",
+  "time_end": "2026-07-30 09:59",
+  "featured_5": [
+   "Daybreaker's Spine"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Hollow Mirage",
+   "Discord"
+  ],
+  "kind": "weapon"
+ },
+ {
+  "page": "Absolute Pulsation: Spectrum Blaster/2026-07-10",
+  "banner_name": "Absolute Pulsation: Spectrum Blaster",
+  "time_start": "2026-07-10 09:10",
+  "time_end": "2026-07-30 09:59",
+  "featured_5": [
+   "Spectrum Blaster"
+  ],
+  "featured_4": [
+   "Commando of Conviction",
+   "Hollow Mirage",
+   "Discord"
+  ],
+  "kind": "weapon"
+ }
+]

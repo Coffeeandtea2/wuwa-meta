@@ -1,0 +1,7 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+data/raw/*/
+!data/raw/README.md
+.DS_Store
